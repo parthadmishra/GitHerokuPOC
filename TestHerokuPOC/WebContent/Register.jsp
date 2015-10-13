@@ -8,7 +8,7 @@
 </head>  
 <body>  
  <center>  
-  <div style="color: teal; font-size: 30px">Being Java Guys |  
+  <div style="color: teal; font-size: 30px">Farmers |  
    Registration Form</div>  
   <form method="post" action="POCServlet">  
    <table>  
